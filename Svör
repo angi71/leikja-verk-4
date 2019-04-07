@@ -1,0 +1,5 @@
+1. Í 2d er notað sprites en í 3d er notað modles.2d hefur ekki z ásin.
+
+3. 2.5d er þegar þú ert með leik í 3d en hann er spilaður eins og 2d leikur. Það er hægt að notan 2.5d 
+fyrir stíll eða notað hann fyrir t.d í "platformer" þar sem þú gætir hoppað á grein sem beindi í áttina 
+að skjánum svo skjárin myndi snúast svo að greinin sem þú myndir standa á snúi ekki að skjánum.
